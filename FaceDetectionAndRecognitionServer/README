@@ -1,0 +1,15 @@
+## How to install the OPENCV on windows
+
+http://opencvlover.blogspot.com.br/2012/04/javacv-setup-with-eclipse-on-windows-7.html
+
+ps1: Follows the same version!
+ps2: You must to restart the PC after setting the environment variable!
+
+## How to install the OPENCV on linux
+
+Just execute the script opencv.sh located at this directory
+
+
+
+
+

@@ -1,0 +1,4 @@
+1 a ./training_images/27ak3.jpg
+2 b ./training_images/2eivx.jpg
+3 c ./training_images/zq8qy.jpg
+
